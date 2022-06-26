@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738389287900",
+    "project_id": "zerokata-f4afa",
+    "storage_bucket": "zerokata-f4afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738389287900:android:e074305e5ddcde657c6519",
+        "android_client_info": {
+          "package_name": "com.example.zerokata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738389287900-t954qtqcsnbfrgb0voq6l6bgsavek97t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURjcV_AMnq_WB5HnxdHV8WjF0Nnnfc_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738389287900-t954qtqcsnbfrgb0voq6l6bgsavek97t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
